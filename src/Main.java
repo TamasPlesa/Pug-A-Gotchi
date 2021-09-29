@@ -40,6 +40,8 @@ public class Main {
         String tulajdonos = scanner.nextLine();
         mopsz.setTulajdonos(tulajdonos);
 
+        //Ez egy teszt komment itt
+
         System.out.println("Add meg a mopszod nevét: ");
         String nev = scanner.nextLine();
         mopsz.setNev(nev);
